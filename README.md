@@ -1,7 +1,5 @@
 # My Gallery
 
-![Project Image](./Image.jpeg)
-
 > A simple and beautiful gallery website showcasing my personal collection of images.
 
 ---
