@@ -1,6 +1,6 @@
 # My Gallery
 
-![Project Image](https://example.com/your-image.png)
+![Project Image](./Image.jpeg)
 
 > A simple and beautiful gallery website showcasing my personal collection of images.
 
